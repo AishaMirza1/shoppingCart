@@ -1,0 +1,2 @@
+body{box-sizing:border-box;font-family:sans-serif;margin:0;padding:0}.container{margin:20px auto;max-width:940px;padding:0 40px}hr{background-color:#000;height:2px}.cart-items-box{grid-gap:30px;display:grid;gap:30px;grid-template-columns:1fr 1fr}.cart-item{border:2px solid #517c8d;font-weight:400;max-width:200px;padding:20px;width:400px}.cart-item:first-child{justify-self:center}.btn{align-items:flex-start;background-color:#5489ce;cursor:pointer;display:block;margin-bottom:5px;padding:5px 3px;width:90%}
+/*# sourceMappingURL=main.d848e3b4.css.map*/
